@@ -1,8 +1,9 @@
 # 👋 Hi, I'm Roberto!
 
 ### 👤 Who am I?
-* 25-year-old Web Developer in training.
+* 26-year-old Web Developer in training.
 * I focus on clear, logical, and no-fluff code.
+* In love with solving problems!
 
 ### 🚀 What am I currently working on?
 * Building web applications to master my coding skills.
