@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm Roberto!
 
-<!--
-**boso777/boso777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👤 Who am I?
+* 25-year-old Web Developer in training.
+* I focus on clear, logical, and no-fluff code.
 
-Here are some ideas to get you started:
+### 🚀 What am I currently working on?
+* Building web applications to master my coding skills.
+* Expanding my knowledge into frameworks, electronics, and UI/UX design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ What tools do I use?
+* **Web Dev:** HTML, CSS, JavaScript, PHP, Laravel, MySQL, Eloquent
+* **Tech & Design:** Figma
+* **AI Tools:** Ollama, Antigravity, Claude Code
+* **Workflow:** Git, GitHub, VS Code
+
+### 📫 How to reach me
+* 💼 [LinkedIn](https://www.linkedin.com/in/roberto-ingrao-06a71137b)
+* ✉️ [Email Me](mailto:robertoingrao4@gmail.com)
