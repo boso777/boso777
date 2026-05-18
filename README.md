@@ -18,7 +18,7 @@
 - **Design:** Figma
 ### 📂 Featured Projects
 - 🗺️ **[Barcelona Explore](https://github.com/boso777/Barcelona_Explore)** — Interactive map app with Leaflet.js and Overpass API. Async data fetching, custom error handling, dynamic UI.
-- 📝 **[Laravel Article Publisher](https://github.com/boso777/MVC_Blog)** — Secure CMS with full auth flow (Laravel Fortify), One-to-Many relationships, server-side validation and file uploads.
+- 📚 **[YouLib](https://github.com/boso777/YouLib)** — Self-hosted digital library built with Laravel 13, Livewire 4, and Docker. Multi-format reader (EPUB, PDF, PPTX), full auth, polymorphic file attachments, and Makefile-driven containerised workflow.
 ### 📫 How to reach me
 - 💼 [LinkedIn](https://www.linkedin.com/in/roberto-ingrao-06a71137b)
 - ✉️ [Email Me](mailto:robertoingrao4@gmail.com)
